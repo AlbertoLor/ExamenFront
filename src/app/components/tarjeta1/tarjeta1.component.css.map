@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAA;EACD,OAAO,EAAE,IAAI;CAChB;;AAED,AAAA,MAAM,CAAA;EACF,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,KAAK;EACZ,aAAa,EAAE,IAAI;EACnB,YAAY,EAAE,IAAI;EAClB,gBAAgB,EAAC,OAAO;CAE3B",
+    "sources": [
+        "tarjeta1.component.scss"
+    ],
+    "names": [],
+    "file": "tarjeta1.component.css"
+}

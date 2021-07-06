@@ -1,0 +1,49 @@
+.vista1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.vista1__columna1 {
+  height: max;
+  width: 100%;
+  border: 1px;
+  border-style: solid;
+  margin: 0px 5px 0px 5px;
+  border-radius: 5px;
+  border-color: lightgrey;
+}
+
+.vista1__columna2 {
+  height: max;
+  width: 100%;
+  border: 1px;
+  border-style: solid;
+  margin: 0px 5px 0px 5px;
+  border-radius: 5px;
+  border-color: lightgrey;
+}
+
+.vista1__columna3 {
+  height: max;
+  width: 100%;
+  border: 1px;
+  margin: 0px 5px 0px 5px;
+}
+
+.tarjeta3 {
+  border: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: lightgrey;
+}
+
+.tarjeta4 {
+  border: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: lightgrey;
+}
+/*# sourceMappingURL=vista1.component.css.map */
